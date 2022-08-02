@@ -7,3 +7,5 @@ This organization holds tools for building domain specific languages in Python.
 The goal of the projects is to increase interoperability between packages in the scientific python ecosystem and make it easier to use Python to build highly performant data processing systems.
 
 If you would like to collaborate, don't hesitate to open an issue or start a discussion!
+
+The current plan is documented in [this project](https://github.com/orgs/metadsl/projects/2) on the org.
